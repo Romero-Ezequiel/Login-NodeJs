@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Login con MongoDB</title>
+    <% include partials/head %>
+  </head>
+  <body>
+
+    <div class="login-box">
+
+      <img class="avatar" src="img/logo.png" alt="">
+      <h1>Registrate</h1>
+
+      <% if (message.length > 0) { %>
+        <div class="alert alert-danger">
+          <%= message %>
+        </div>
+      <% } %>
+      
+      <form action="/signup" method="post">
+          <label for="email">Email</label>
+          <input type="text" name="email" placeholder="Correo electronico">
+          <label for="password">Contraseña</label>
+          <input type="password" name="password" placeholder="Clave">
+          <hr>
+          <input type="submit"  value="Iniciar">
+      </form>
+      
+      <p>¿Ya tiene una cuenta? <a href="/">Inicia Sesión</a></p>
+
+    </div>
+  </body>
+</html>
