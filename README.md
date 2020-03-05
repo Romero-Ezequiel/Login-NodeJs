@@ -41,8 +41,8 @@ npm run dev
 ```
 
 ### _Demo_
-
+![login](https://user-images.githubusercontent.com/54491030/76027768-f9e67680-5f0f-11ea-9a75-78cf74249237.gif)
 
 ### Autor ✒️
 
-* **Ezequiel Romero** - *_Trabajo Inicial_* 
+* **Ezequiel Romero**  
