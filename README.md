@@ -35,12 +35,10 @@ una base de datos MongoDB. Para eso tengo que utilizar el siguiente comando:_
 mongoimport --db nombre_de_la_BD --collection nombre_de_la_colección --el_archivo_.JSON
 ```
 
-
-_Para ejecutar el proyecto del login se tiene que ejecutar el siguiente comando:_
+_Por ultimo para visualizar el proyecto del login se tiene que ejecutar el siguiente comando:_
 ```
 npm run dev
 ```
-
 
 ### _Demo_
 
