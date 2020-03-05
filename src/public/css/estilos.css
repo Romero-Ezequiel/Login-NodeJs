@@ -1,4 +1,7 @@
-/* */
+/* Le doy algunos estilos al cuerpo de la aplicacion, quitandole
+los margenes y luego asignandole un fondo al cual, también le aplico 
+algunos estilos para que se adapte */
+
 body{
   margin: 0;
   padding: 0;
@@ -8,7 +11,11 @@ body{
   height: 100hv;
 }
 
-/*Estilizar la caja del formulario*/
+/* Aca le doy algunos estilos a la caja del formulario. Indicandole el tamaño
+del recuadro dandole un ancho y alto, a ese recuadro le indico un fondo de color
+y le aplico algunos estilos al tipo de letra, además le indico un pequeño 
+border-radius */
+
 .login-box{
   width: 320px;
   height: 520px;
@@ -22,7 +29,11 @@ body{
   padding: 70px 30px;
   border-radius: 10px;
 }
-/* */
+
+/* Aca le doy estilo a la imagen del avatar. Dandole un alto y un 
+ancho, un border-radius para que el avatar este en formo de un circulo. 
+Y le indico la posicion para que este centrado y arriba del formulario*/
+
 .login-box .avatar{
   width: 100px;
   height: 100px;
@@ -31,26 +42,39 @@ body{
   top: -50px;
   left: calc(50% - 50px);
 }
-/* */
+
+/* Aca le doy estilo al titulo quitandole los margenes, le indico que 
+tenga un espacio pequeño hacia abajo con el padding, le indico que el titulo
+este centrado y que el tamaño de letra sea de 20px */
+
 .login-box h1{
   margin: 0;
   padding: 0 0 20px;
   text-align: center;
   font-size: 20px;
 }
-/* */
+
+/* Aca le doy estilos a los label del formulario, sacandole los margenes
+y le indico algunos estilos al tipo de letra*/
+
 .login-box label{
   margin: 0;
   padding: 0;
   font-weight: bold;
   display: block;
 }
-/* */
+
+/* Aca le doy estilos a los input del formulario indicandole que ocupen
+todo el ancho del recuadro y que tengan un margin-bottom de 20px hacia abajo*/
+
 .login-box input{
   width: 100%;
   margin-bottom: 20px;
 }
-/* */
+
+/* Aca le doy estilos a los input del formularios solamente a los que contengan
+type='text' y type='password' */
+
 .login-box input[type="text"],
 .login-box input[type="password"]{
   border: none;
@@ -61,7 +85,12 @@ body{
   color: #fff;
   font-size: 16px;
 }
-/* */
+
+/* Aca le doy estilos a los input que contengan type='submit', le aplico 
+estilo para que se paresca a un boton. Le indicandole 
+un color rojo de background y el color de las letras de blanco y le aplico
+un border-radius*/
+
 .login-box input[type="submit"]{
   border: none;
   outline: none;
@@ -71,23 +100,35 @@ body{
   font-size: 18px;
   border-radius: 20px;
 }
-/* */
+
+/* Aca le aplico estilo hover para que cuando pase el mouse por encima de
+un input que contenga type='submit' cambie de color de background para 
+que realice un efecto de un boton*/
+
 .login-box input[type="submit"]:hover{
   cursor: pointer;
   background: darkgreen;
   color: #fff;
 }
-/* */
+
+/* Aca le doy estilos a las etiquetas link o enlaces sacandole*/
+
 .login-box a{
   text-decoration: none;
   font-size: 16px;
   line-height: 20px;
 }
-/* */
+
+/* Por ultimo, le doy algunos estilos a la pagina de perfil cuando
+se registran correctamente cada usuario  */
+/* Aca le indico que le de estilo al titulo de la vista de perfil,
+solamente asignandole un color*/
+
 .pagina-perfil{
   color: goldenrod;
 }
-/* */
+
+/* Aca le doy algunos estilos al boton de salir, de la pagina de perfil*/
 .salir{
   outline: none;
   border: none;
@@ -97,12 +138,12 @@ body{
   font-size: 16px;
   border-radius: 20px;
 }
-/* */
+
 .salir:hover{
   cursor: pointer;
   background: gray;
 }
-/* */
+
 .salir a{
   color: #000;
   text-decoration: none;
