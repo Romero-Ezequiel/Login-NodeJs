@@ -36,7 +36,7 @@ _Para ejecutar el proyecto del login se tiene que ejecutar el siguiente comando:
 npm run dev
 ```
 
-### _Demostración final_
+### _Demo_
 
 
 ### Autor ✒️
