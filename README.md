@@ -32,7 +32,7 @@ npm install
 _Una vez de instalar todas las dependencias y modulos que utilice tengo que realizar la importacón del archivo `usuarios.json` en
 una base de datos MongoDB. Para eso tengo que utilizar el siguiente comando:_ 
 ```
-mongoimport --db nombre_de_la_BD --collection nombre_de_la_colección --el_archivo_.JSON
+mongoimport --db login-node --collection users --usuarios.json
 ```
 
 _Por ultimo para visualizar el proyecto del login se tiene que ejecutar el siguiente comando:_
