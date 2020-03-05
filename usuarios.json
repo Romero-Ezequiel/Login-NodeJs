@@ -1,0 +1,3 @@
+{"_id":{"$oid":"5e518d5cd8b77f2bb8e8617e"},"local":{"password":"$2a$08$bdSTlDuw/yHYNhOYM8DxV.CVullAQdjInl1m8BQF7csOe5OHuhtmO","email":"eze@gmail.com"},"__v":0}
+{"_id":{"$oid":"5e518ddcd8b77f2bb8e8617f"},"local":{"password":"$2a$08$MAl/dC/EwCZTDdANzs90aubAxPkCJ6Lny/CtY8ZjbLwXHll1Km6GS","email":"gabi@gmail.com"},"__v":0}
+{"_id":{"$oid":"5e518e23d8b77f2bb8e86181"},"local":{"password":"$2a$08$Oiy9cg7Bg0AET1BmrgMc6OvH553HKGZBVo3yBap0uar3wQJBs0tHS","email":"jose@gmail.com"},"__v":0}
