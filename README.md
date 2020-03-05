@@ -11,16 +11,15 @@ mostrandome algunos datos que los traigo de la base de datos.
 ##### Para realizar el servidor:
 * [NodeJs](https://nodejs.org/es/) - Es un entorno de ejecución para JavaScript construido con el motor de JavaScript V8 de Chrome.
 * [Express](https://expressjs.com/es/) - Es un framework de nodejs que nos permite crear un servidor de manera muy sencilla.
-* [morgan](https://www.npmjs.com/package/morgan) - 
+* [morgan](https://www.npmjs.com/package/morgan) - Este modulo me permite registrar todas las peticiones HTTP que llegan al servidor y mostrarlas en consola.
 * [nodemon](https://nodemon.io/) - 
-* [body-parser](https://www.npmjs.com/package/body-parser) - 
-* [express-session](https://www.npmjs.com/package/express-session) - 
-* [cookie-parser](https://www.npmjs.com/package/cookie-parser) -
-* [connect-flash](https://www.npmjs.com/package/connect-flash) -
-* [MongoDB](https://www.mongodb.com/es) - 
-* [passport](http://www.passportjs.org/) - 
-* [bcrypt-nodejs](https://www.npmjs.com/package/bcrypt) - 
-* [mongoose](https://mongoosejs.com/) - 
+* [body-parser](https://www.npmjs.com/package/body-parser) - Este modulo nos permite poder entender los datos que llegan del cliente al servidor.
+* [express-session](https://www.npmjs.com/package/express-session) - Este modulo nos va a permitir poder manejar las sesiones atra vez de express.
+* [cookie-parser](https://www.npmjs.com/package/cookie-parser) - Este modulo nos va a permitir administrar las cookies del navegador, nos sirve para poder administrar las sesiones.
+* [connect-flash](https://www.npmjs.com/package/connect-flash) - Este modulo nos va a permitir mandar mensajes que se almacenen en el cliente y luego lo podemos mostrar en pantalla.
+* [passport](http://www.passportjs.org/) - Este modulo me permite autenticar los modulos dentro de mi servidor.
+* [bcrypt-nodejs](https://www.npmjs.com/package/bcrypt) - Este modulo nos va a permitir cifrar los datos.
+* [mongoose](https://mongoosejs.com/) - Este modulo nos va a permitir conectarnos a mongoDB y nos proporciona la caracteristica de poder definir nuestros datos en la base de datos.
 * [EJS](https://ejs.co/) - Es un motor de plantillas muy popular de JavaScript.
 * [Bootstrap](https://getbootstrap.com/) - 
 * [Css]() - 
