@@ -5,20 +5,28 @@ Realice un login para utilizando NodeJs javascript además realice un servidor c
 ### Construido con 🛠️
 _El login está realizada con lo siguiente:_
 
-* [Node.js](https://nodejs.org/es/) - Es un entorno de ejecución para JavaScript construido con el motor de JavaScript V8 de Chrome.
+##### Para realizar el servidor:
+* [NodeJs](https://nodejs.org/es/) - Es un entorno de ejecución para JavaScript construido con el motor de JavaScript V8 de Chrome.
 * [Express](https://expressjs.com/es/) - Es un framework de nodejs que nos permite crear un servidor de manera muy sencilla.
-* [Ejs](https://ejs.co/) - Es un motor de plantillas muy popular de JavaScript.
-* [MongoDB](https://www.mongodb.com/es) - 
-* [Bootstrap](https://getbootstrap.com/) - 
-* [passport](http://www.passportjs.org/) - 
-* [bcrypt-nodejs](https://www.npmjs.com/package/bcrypt) - 
 * [morgan](https://www.npmjs.com/package/morgan) - 
 * [nodemon](https://nodemon.io/) - 
+* [body-parser](https://www.npmjs.com/package/body-parser) - 
 * [express-session](https://www.npmjs.com/package/express-session) - 
-* [mongoose](https://mongoosejs.com/) - 
 * [cookie-parser](https://www.npmjs.com/package/cookie-parser) -
 * [connect-flash](https://www.npmjs.com/package/connect-flash) -
-* [body-parser](https://www.npmjs.com/package/body-parser) - 
+
+##### Para conectar a la base de datos:
+* [MongoDB](https://www.mongodb.com/es) - 
+* [passport](http://www.passportjs.org/) - 
+* [bcrypt-nodejs](https://www.npmjs.com/package/bcrypt) - 
+* [mongoose](https://mongoosejs.com/) - 
+
+##### Para visualizar las vistas:
+* [EJS](https://ejs.co/) - Es un motor de plantillas muy popular de JavaScript.
+
+##### Para visualizar los estilos:
+* [Bootstrap](https://getbootstrap.com/) - 
+* [Css]() - 
 
 
 ### Instalación 🔧
