@@ -15,20 +15,13 @@ Realice un login para utilizando NodeJs javascript además realice un servidor c
 * [express-session](https://www.npmjs.com/package/express-session) - 
 * [cookie-parser](https://www.npmjs.com/package/cookie-parser) -
 * [connect-flash](https://www.npmjs.com/package/connect-flash) -
-
-##### Para conectar a la base de datos:
 * [MongoDB](https://www.mongodb.com/es) - 
 * [passport](http://www.passportjs.org/) - 
 * [bcrypt-nodejs](https://www.npmjs.com/package/bcrypt) - 
 * [mongoose](https://mongoosejs.com/) - 
-
-##### Para visualizar las vistas:
 * [EJS](https://ejs.co/) - Es un motor de plantillas muy popular de JavaScript.
-
-##### Para visualizar los estilos:
 * [Bootstrap](https://getbootstrap.com/) - 
 * [Css]() - 
-
 
 ### Instalación 🔧
 
