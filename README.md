@@ -1,6 +1,8 @@
 # Login con MongoDB
 
-Realice un login para utilizando NodeJs javascript además realice un servidor con NodeJs para levantar y visualizar dicha calculadora.
+Realice un login con NodeJs, el cual me permite iniciar sesión en caso de tener una cuenta guardada en una base de datos, o
+registrarme en caso de no tener una cuenta. Además al logearse correctamente me muestra una vista del perfil de cada usuario, 
+mostrandome algunos datos que los traigo de la base de datos.
 
 ### Construido con 🛠️
 
