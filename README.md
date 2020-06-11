@@ -4,7 +4,7 @@ Realice un login con NodeJs, el cual me permite iniciar sesión en caso de tener
 registrarme en caso de no tener una cuenta. Además al logearse correctamente me muestra una vista del perfil de cada usuario, 
 mostrandome algunos datos que los traigo de la base de datos.
 
-### Construido con 🛠️
+#### Construido con 🛠️
 
   _El login está realizada con lo siguiente:_
 
@@ -22,7 +22,7 @@ mostrandome algunos datos que los traigo de la base de datos.
 * [EJS](https://ejs.co/) - Es un motor de plantillas muy popular de JavaScript.
 * [Bootstrap](https://getbootstrap.com/) -  Utilice la CDN de bootstrap para realizar algunos estilos.
 
-### Instalación 🔧
+#### Instalación 🔧
 
 _Para la instalación del proyecto del login, se tiene que ejecutar en la consola el siguiente comando: Para poder descargar
 todas las dependencias y modulos que utilice._ 
@@ -40,9 +40,6 @@ _Por ultimo para visualizar el proyecto del login se tiene que ejecutar el sigui
 npm run dev
 ```
 
-### _Demo_
+#### _Demo_
 ![login](https://user-images.githubusercontent.com/54491030/76027768-f9e67680-5f0f-11ea-9a75-78cf74249237.gif)
 
-### Autor ✒️
-
-* **_Ezequiel Romero_**  
